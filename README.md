@@ -6,7 +6,7 @@ Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em
 
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC
 - 📍 Atualmente moro em São Paulo/SP
-- 📚 Atualmente estou estudando {Tecnologias}
+- 📚 Atualmente estou estudando Java, JavaScript, Node.js e Google Cloud Computing
 
 ## Tecnologias que eu conheço
 
