@@ -21,5 +21,8 @@ Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em
 
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarbosaalves/)](https://www.linkedin.com/in/lucasbarbosaalves/)
+<p>
+<a href="https://www.linkedin.com/in/lucasbarbosaalves/"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/_lukasalvess/"><img src="https://img.icons8.com/color/64/000000/instagram-new.png"/></a>
+</p>
 - 📧 lkab05@hotmail.com
