@@ -1,4 +1,4 @@
-# Olá! 👋
+# Hello World! 🌎
 
 Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em busca de aprendizado e evolução.
 
