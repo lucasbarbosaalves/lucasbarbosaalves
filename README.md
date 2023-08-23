@@ -33,3 +33,7 @@ Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvim
 - Luiz Carlos (Full Cycle)
 - Fernanda Kipper (Youtube)
 - Giuliana Bezerra (Youtube)
+
+## Portólio
+
+<a href=https://lucasbarbosaalves.vercel.app/><img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/></a>
