@@ -37,4 +37,4 @@ Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvim
 
 ## Portólio
 
-<a href=https://lucasbarbosaalves.vercel.app/><img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/></a>
+<a href=https://cv-lucasalves.vercel.app//><img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="Site"/></a>
