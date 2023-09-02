@@ -15,9 +15,10 @@ Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvim
 
 ## Cursos realizados
 
+- [<i class="fab fa-java"></i> Java - Spring, REST API, JPA e UML](https://www.udemy.com/certificate/UC-59c122bc-c944-425a-90ba-a99772f3aee6/)
+- [<i class="fab fa-java"></i> AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/bbb76839-e647-4c0a-bdc2-d24253f6b30c/linked_in_profile)
 - [<i class="fas fa-cloud"></i> Google Cloud Computing Foundations: Cloud Computing Fundamentals - Locales](https://www.cloudskillsboost.google/public_profiles/b87cb295-577e-4c65-a9c0-37b517759188/badges/3504229?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [<i class="fab fa-java"></i>Certificações Alura - Backend, Frontend e Dados](https://cursos.alura.com.br/user/lkab05/fullCertificate/466e78bc98caf730fb74a97e74ed8c0e)
-- [<i class="fab fa-java"></i> Java - Spring, REST API, JPA e UML](https://udemy-certificate.s3.amazonaws.com/pdf/UC-59c122bc-c944-425a-90ba-a99772f3aee6.pdf)
 
 ## Contatos
 
