@@ -34,6 +34,7 @@ Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvim
 - Luiz Carlos (Full Cycle)
 - Fernanda Kipper (Youtube)
 - Giuliana Bezerra (Youtube)
+- Thomas da Costa (SENACSP)
 
 ## Portólio
 
