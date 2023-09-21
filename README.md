@@ -10,7 +10,7 @@ Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvim
 ## Tecnologias que eu conheço
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,nestjs,react,git,docker,azure,aws,js,maven,mongodb,mysql,postgres,postman,sequelize,prisma&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,nestjs,react,git,docker,azure,aws,js,maven,mongodb,mysql,postgres,postman,sequelize,prisma,golang&perline=17)](https://skillicons.dev)
 
 
 ## Cursos realizados
