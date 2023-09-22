@@ -5,7 +5,7 @@ Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em
 ## Sobre mim
 
 Estudante de desenvolvimento backend com foco em Java utilizando Spring Boot. Experiência acadêmica em SOLID, Design Patterns e Microsserviços. Habilidades em bancos de dados relacionais e não relacionais. 
-Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvimento de APIs com Javascript/Typescript.
+Atualmente continuo me aprimorando em Java com Spring Framework, em desenvolvimento de APIs com Javascript/Typescript e Golang.
 
 ## Tecnologias que eu conheço
 
