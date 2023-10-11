@@ -4,28 +4,16 @@ Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em
 
 ## Sobre mim
 
-Estudante de desenvolvimento backend com foco em Java utilizando Spring Boot. Experiência acadêmica em SOLID, Design Patterns e Microsserviços. Habilidades em bancos de dados relacionais e não relacionais. 
-Atualmente continuo me aprimorando em Java com Spring Framework, em desenvolvimento de APIs com Javascript/Typescript e Golang.
-
-## Tecnologias que eu conheço
+Estudante de desenvolvimento backend com foco em Java. Experiência acadêmica em SOLID, Design Patterns e Microsserviços. Habilidades em bancos de dados relacionais e não relacionais. 
+Atualmente continuo me aprimorando em Java com Spring Framework e em desenvolvimento de APIs com Javascript/Typescript e Golang.
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,nestjs,react,git,docker,azure,aws,js,maven,mongodb,mysql,postgres,postman,sequelize,prisma,golang&perline=17)](https://skillicons.dev)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosaalves&layout=compact&count_private=true)
 
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=lucasbarbosaalves&count_private=true&show_icons=true)
 
-## Cursos realizados
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lucasbarbosaalves&hide_border=true)
 
-- [<i class="fab fa-java"></i> Java - Spring, REST API, JPA e UML](https://www.udemy.com/certificate/UC-59c122bc-c944-425a-90ba-a99772f3aee6/)
-- [<i class="fab fa-java"></i> AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/bbb76839-e647-4c0a-bdc2-d24253f6b30c/linked_in_profile)
-- [<i class="fas fa-cloud"></i> Google Cloud Computing Foundations: Cloud Computing Fundamentals - Locales](https://www.cloudskillsboost.google/public_profiles/b87cb295-577e-4c65-a9c0-37b517759188/badges/3504229?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [<i class="fab fa-java"></i>Certificações Alura - Backend, Frontend e Dados](https://cursos.alura.com.br/user/lkab05/fullCertificate/466e78bc98caf730fb74a97e74ed8c0e)
-
-## Contatos
-
-<p>
-<a href="https://www.linkedin.com/in/lucasbarbosaalves/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<a href=mailto:lkab05@hotmail.com><img src="https://img.icons8.com/color/50/000000/gmail-new.png"/></a>
-</p>
 
 ## Referências Acadêmicas
 
@@ -34,8 +22,13 @@ Atualmente continuo me aprimorando em Java com Spring Framework, em desenvolvime
 - Luiz Carlos (Full Cycle)
 - Fernanda Kipper (Youtube)
 - Giuliana Bezerra (Youtube)
-- Thomas da Costa (SENACSP)
+- Thomas da Costa (SENACSP/Itau)
+- ThePrimeagen (FrontendMasters)
+- Mario Rezende (Youtube)
 
-## Portólio
 
-<a href="https://cv-lucasalves.vercel.app/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="Site"/></a>
+## 🔗 Contato
+
+[![linkedin](https://img.shields.io/badge/linkedin-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucasbarbosaalves)
+[![linkedin](https://img.shields.io/badge/email-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailTo:lkab05@hotmail.com)
+
