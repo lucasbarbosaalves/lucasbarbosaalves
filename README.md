@@ -10,10 +10,6 @@ Atualmente continuo me aprimorando em Java com Spring Framework e na plataforma 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosaalves&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=lucasbarbosaalves&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lucasbarbosaalves&hide_border=true)
-
 
 ## Referências Acadêmicas
 
