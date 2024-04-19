@@ -1,27 +1,8 @@
 # Hello World! 🌎
 
-Meu nome é Lucas. Sou estudante de Tecnologia da Informação e estou sempre em busca de aprendizado e evolução.
-
-## Sobre mim
-
-Estudante de desenvolvimento backend com foco em Java. Experiência acadêmica em SOLID, Design Patterns e Microsserviços. Habilidades em bancos de dados relacionais e não relacionais. 
-Atualmente continuo me aprimorando em Java com Spring Framework e na plataforma JakartaEE, e explorando desenvolvimento de APIs com Javascript/Typescript e Golang.
-
+Meu nome é Lucas. Sou apaixonado por tecnologia, busco oportunidade para aprimorar minhas habilidades em desenvolvimento back-end com Java e Spring Framework. Experiência em desenvolvimento de APIs REST, microserviços, MVC, bancos de dados e conhecimento em serviços de nuvem da AWS.
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosaalves&layout=compact&count_private=true)
-
-
-## Referências Acadêmicas
-
-- Nélio Alves (Udemy)
-- Diego Fernandes (Rocketseat)
-- Luiz Carlos (Full Cycle)
-- Fernanda Kipper (Youtube)
-- Giuliana Bezerra (Youtube)
-- Thomas da Costa (SENACSP/Itau)
-- ThePrimeagen (FrontendMasters)
-- Mario Rezende (Youtube)
-
 
 ## 🔗 Contato
 
