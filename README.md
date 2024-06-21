@@ -1,7 +1,6 @@
 # Hello World! 🌎
 
-Meu nome é Lucas. Sou apaixonado por tecnologia, busco oportunidade para aprimorar minhas habilidades em desenvolvimento back-end com Java e Spring Framework. Experiência em desenvolvimento de APIs REST, microserviços, MVC, bancos de dados e conhecimento em serviços de nuvem da AWS.
-
+My name is Lucas. I'm looking for opportunities to improve my skills in back-end development with Java and Spring Framework. Experience in developing REST APIs, microservices, MVC, databases and knowledge of AWS cloud services.
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosaalves&layout=compact&count_private=true)
 
 ## 🔗 Contato
