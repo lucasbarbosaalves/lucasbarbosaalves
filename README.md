@@ -1,4 +1,4 @@
-# Hello, I'm Lucas Barbosa! 👋
+# Hi, I'm Lucas!
 
 I'm a back-end developer with a focus on learning and building with **Java** and the **Spring Boot**. I'm always eager to explore new technologies and sharpen my skills to create effective software solutions.
 
