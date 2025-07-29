@@ -23,15 +23,7 @@ I am currently looking for new opportunities to apply my knowledge and grow as a
 
 ---
 
-### 📊 My GitHub Stats
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosaalves&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-</p>
-
----
-
-### 📫 Get in Touch
+### 📫 Contact
 
 Feel free to connect with me or send a message!
 
